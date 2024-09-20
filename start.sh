@@ -1,0 +1,1 @@
+snow sql -q "CALL NA_SECURITY_URL_TEST_APP.app_public.start_app()"

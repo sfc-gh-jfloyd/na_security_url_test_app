@@ -1,0 +1,10 @@
+definition_version: 1
+native_app:
+   name: NA_SECURITY_URL_TEST_APP
+   application:
+      name: NA_SECURITY_URL_TEST_APP
+   artifacts:
+      - src: app/*
+        dest: ./
+      - service/echo_spec.yaml
+      
